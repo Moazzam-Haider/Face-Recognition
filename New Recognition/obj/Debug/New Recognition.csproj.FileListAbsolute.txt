@@ -1,0 +1,74 @@
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\New Recognition.exe.config
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\New Recognition.exe
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\New Recognition.pdb
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.AssemblyReference.cache
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New_Recognition.Form1.resources
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New_Recognition.Properties.Resources.resources
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.GenerateResource.cache
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.CoreCompileInputs.cache
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.exe
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.pdb
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.World.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\OpenTK.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\ZedGraph.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.World.xml
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\OpenTK.xml
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\ZedGraph.xml
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.CopyComplete
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\New Recognition.exe.config
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\New Recognition.exe
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\New Recognition.pdb
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.UI.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.UI.GL.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.World.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\OpenTK.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\OpenTK.GLControl.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\ZedGraph.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.UI.xml
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.UI.GL.xml
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\Emgu.CV.World.xml
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\OpenTK.xml
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\OpenTK.GLControl.xml
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\ZedGraph.xml
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\de\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\es\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\fr\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\hu\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\it\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\ja\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\pt\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\ru\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\sk\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\sv\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\tr\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.AssemblyReference.cache
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.SuggestedBindingRedirects.cache
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New_Recognition.Form1.resources
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New_Recognition.Properties.Resources.resources
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.GenerateResource.cache
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.CoreCompileInputs.cache
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.csproj.CopyComplete
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.exe
+F:\Moazzam\source\repos\New Recognition\New Recognition\obj\Debug\New Recognition.pdb
